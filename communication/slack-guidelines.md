@@ -6,6 +6,7 @@ Slack is the preferred communication platform in DIPS.
 - Be respectful and nice.
 - Use smileys to convey your emotions. Irony translates poorly into text only.
 - The primary language in most channels is Norwegian. For the `dev` channel and channels dedicated to cooperation with English speakers, the primary language is English. For developer centric channels, prefer English.
+- Don’t use Slack to discuss or spread confidential information.
 
 ## Personal
 - Your profile must contain the following information:
