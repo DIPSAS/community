@@ -32,8 +32,8 @@ Slack is the preferred communication platform in DIPS.
 
 ## Messages
 - Reply to messages using threads.
-- Use reactions instead messages if you just want to signal agreement/disagreement.
-- When asking a question, react with a checkmark if the question when the question has been answered in the thread below.
+- Use reactions instead of messages if you just want to signal agreement/disagreement.
+- When asking a question, react with a checkmark if the question has been answered in the thread below.
 - Use quotations, verbatim and code formatting to make your messages as readable as possible.
 - Reply or comment in the same language as the original message.
 
